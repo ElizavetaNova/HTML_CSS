@@ -1,0 +1,421 @@
+body{
+    margin: 0 5% 0 5%;
+}
+.navigation{
+	position: absolute;
+	padding-top: 34px;
+	padding-bottom: 94px;
+	width: 1346px;
+	height: 47px;
+	display: flex;
+	/*justify-content: space-around;
+    align-items: center;*/
+}
+.logo{
+	position: absolute;
+	width: 151px;
+	height: 47px;
+	
+	height: 47px;
+left: 70px;
+
+border-radius: 0px;
+
+}
+ul > li{
+    display: inline;
+    font-family: Open Sans, sans-serif;
+	
+}
+.navigation_one{
+	height: 32px;
+width: 811px;
+
+padding-left: 273px;
+}
+a{
+	text-decoration: none;
+	color: #646464;
+
+}
+.navigation_button{
+position: absolute;
+width: 650px;
+height: 22px;
+font-family: Open Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 22px;
+/*padding-top:48px;
+padding-left: 808px;*/
+left: 697px;
+border-radius: nullpx;
+
+}
+.button_SingUp{
+	position: absolute;
+width: 97px;
+height: 32px;
+background: #CAA892;
+border-radius: 15px 0px;
+font-family: Open Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height */
+color: #FFFFFF;
+left: 1411px;
+}
+.Base{
+	height: 735px;
+width: 1662px;
+
+padding-top: 175px;
+/*top: -2618px;*/
+
+
+}
+.Base_one{
+	position: absolute;
+
+height: 6996px;
+background: #FFFFFF;
+height: 414px;
+width: 606px;
+left: 157px;
+}
+.Text_first
+{
+width: 186px;
+font-family: Open Sans;
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 27px;
+color: #646464;
+padding-top: 124px;
+display: inline;
+}
+.Text_secound
+{
+font-family: Poppins;
+font-size: 72px;
+font-style: normal;
+font-weight: 600;
+line-height: 78px;
+text-align: left;
+width: 552px;
+height: 156px;
+/*padding-top: 163px;*/
+}
+.Text_third
+{
+	height: 90px;
+width: 603px;
+left: 160px;
+/*top: -2276px;*/
+border-radius: nullpx;
+font-family: Open Sans;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: left;
+}
+.button_contact
+{
+width: 142.15px;
+height: 42.81px;
+background: #37806B;
+border-radius: 20px 0px;
+left: 160px;
+font-family: Open Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+color: #FFFFFF;
+}
+.Mask_Group
+{
+/*	height: 659px;
+width: 751px;*/
+
+padding-left: 800px;
+
+}
+.Rectangle_1
+{
+width: 716px;
+height: 626px;
+
+border: 2px solid #B0855B;
+/*box-sizing: border-box;*/
+border-radius: 140px 0px;
+
+}
+.img_room
+{
+width: 717px;
+
+height: 626px;
+border-radius: 140px 0px;
+
+}
+.about
+{position: absolute;
+	height: 338px;
+width: 1364px;
+left: 160px;
+}
+.Text_about_first
+{
+font-family: Poppins;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: 28px;
+letter-spacing: -0.01em;
+text-align: left;
+color: #646464;
+height: 28px;
+width: 130px;
+left: 162px;
+display: inline;
+
+}
+.Our_Service
+{
+	font-family: Poppins;
+font-size: 48px;
+font-style: normal;
+font-weight: 500;
+line-height: 78px;
+letter-spacing: 0em;
+text-align: left;
+height: 78px;
+width: 276px;
+left: 86px;
+border-radius: nullpx;
+margin-top: -12px;
+}
+.Buttons
+{
+	display: flex;
+    align-items: flex-end;
+    padding-left: 1279px;
+	/*margin-bottom: 64px;*/
+	padding-top: 0px;
+	margin-top: -50px;
+	
+}
+.Left_button
+{
+	 background: #FFFFFF;
+    box-shadow: -1px 3px 10px rgba(0, 0, 0, 0.3);
+    color: #646464;
+    border: none;
+    width: 30px;
+    height: 30px;
+    border-radius: 100px ;
+
+    font-weight: bolder;
+    margin: 0 10px 0 0;
+}
+.left
+{	height: 8px;
+width: 4px;
+left: 1378px;
+border-radius: 0px;
+border: 2px solid;
+color: #646464;
+}
+.right
+{
+width: 4px;
+height: 9px;
+
+border: 2px solid #FFFFFF;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+height: 9px;
+width: 4px;
+left: 1430px;
+
+border-radius: 0px;
+}
+.Right_button
+{
+	background: #37806B;
+    box-shadow: -1px 3px 10px rgba(0, 0, 0, 0.3);
+    color: #FFFFFF;
+    border: none;
+    width: 30px;
+    height: 30px;
+    border-radius: 100px ;
+
+    font-weight: bolder;
+    margin: 0 18px 0 0;
+}
+.first_block
+{
+	box-shadow: 0px 8px 20px 0px #00000024;
+height: 193px;
+width: 425px;
+left: 101px;
+position: absolute;
+width: 425px;
+height: 193px;
+
+background: #FFFFFF;
+border-radius: 60px 0px;
+}
+.Design
+{
+width: 40px;
+height: 40px;
+margin-left: 37px;
+margin-top: 40px;
+}
+.Interior_Design
+{
+	font-family: Open Sans;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: 78px;
+letter-spacing: 0em;
+text-align: left;
+color: #212121;
+width: 180px;
+
+margin-left: 97px;
+margin-top: -65px;
+}
+.Text_first_block
+{
+	height: 84px;
+width: 307px;
+border-radius: nullpx;
+font-family: Open Sans;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 28px;
+letter-spacing: -0.01em;
+text-align: left;
+color: #646464;
+margin-top: -50px;
+margin-left: 97px;
+}
+.secound_block
+{
+height: 193px;
+width: 425px;
+left: 563px;
+background: rgba(202, 168, 146, 1);
+position: absolute;
+background: #CAA892;
+box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.14);
+border-radius: 60px 0px;
+}
+.arc_img
+{
+	margin-left: 37px;
+margin-top: 40px;
+	position: absolute;
+width: 40px;
+height: 40px;
+}
+.Architecture_text
+{
+	font-family: Open Sans;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: 78px;
+letter-spacing: 0em;
+text-align: left;
+height: 78px;
+width: 152px;
+left: 658px;
+color: #FFFFFF;
+margin-left: 97px;
+margin-top: 15px;
+}
+.Text_secound_block
+{
+	font-family: Open Sans;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 28px;
+letter-spacing: -0.01em;
+text-align: left;
+
+height: 84px;
+width: 307px;
+left: 658px;
+color: #FFFFFF;
+
+margin-top: -50px;
+margin-left: 97px;
+}
+.third_block
+{
+	height: 193px;
+width: 425px;
+left: 1025px;
+box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.14);
+background: #FFFFFF;
+border-radius: 60px 0px;
+position: absolute;
+
+}
+.plan_img
+{
+	margin-left: 37px;
+margin-top: 40px;
+	position: absolute;
+width: 40px;
+height: 40px;
+}
+.Planning
+{
+	font-family: Open Sans;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: 78px;
+letter-spacing: 0em;
+text-align: left;
+height: 78px;
+width: 106px;
+left: 1123px;
+color: #212121;
+
+margin-left: 97px;
+margin-top: 15px;
+}
+.Text_third_block
+{
+	height: 84px;
+width: 307px;
+left: 1123px;
+top: -1366px;
+border-radius: nullpx;
+
+font-family: Open Sans;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 28px;
+letter-spacing: -0.01em;
+text-align: left;
+
+color: #646464;
+
+margin-top: -50px;
+margin-left: 97px;
+}
